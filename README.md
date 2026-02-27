@@ -74,7 +74,7 @@ Detailed documentation available in the `/docs` folder:
 
 - architecture-diagram.png
 - data-structure.png
-- landing-overview.png
+- processing-flow.png
 
 These diagrams illustrate the high-level architecture and system design without exposing proprietary implementation details.
 
